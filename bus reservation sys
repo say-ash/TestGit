@@ -1,0 +1,24 @@
+BUS RESERVATION SYSTEM
+Objective: 
+To design a web application 
+
+User Modules
+1)	Registration 
+a)	Registration through phone no or email
+2)	Login
+3)	Bus Availability Enquiry
+a)	Start date-end date
+b)	Source -Destination
+4)	Make Reservation
+a)	Authorized user Reservation
+i)	Wallet 
+ii)	Online-
+b)	Online payment 
+c)	
+5)	Cancel Reservation
+6)	Print Ticket
+7)	Wallet payment
+Admin Modules
+1.	Update Reservation
+2.	Update Route
+3.	Update Bus
